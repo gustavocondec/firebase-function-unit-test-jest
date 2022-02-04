@@ -64,3 +64,7 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+src/node_modules
+.idea
+src/test/google-key.json
